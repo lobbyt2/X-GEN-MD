@@ -26,7 +26,7 @@ import moment from 'moment-timezone'
 /*==============USER-INFO==============*/
 global.owner = [LOBBYT 
   ['2349067069138', 'ꜱʟᴀꜱʜᴇʀ ᴏꜰꜰɪᴄɪᴀʟ', true], 
-  ['put your number', 'lobbyt', true] 
+  ['2349067069138', 'lobbyt', true] 
 ] 
 
 global.mods = ['put-your-number','8801853262586'] //Don't replace this,If you want to add someone add any dev
